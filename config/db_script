@@ -1,0 +1,2 @@
+CREATE TABLE tb_user(c_oid VARCHAR(36) not NULL PRIMARY KEY,c_name VARCHAR(36),c_password VARCHAR(36));
+
